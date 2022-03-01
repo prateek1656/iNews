@@ -1,0 +1,266 @@
+articles = [ {
+    "status": "ok",
+    "totalResults": 595,
+    "articles": [
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Richard Lawler",
+    "title": "T-Mobile CEO calls latest data breach ‘humbling,’ claims it’s committed to security",
+    "description": "T-Mobile CEO Mike Sievert says the company will partner with Mandiant and KPMG to take its security “to the next level.” The company’s fifth breach since 2018 just coughed up personal data including social security numbers for millions of people.",
+    "url": "https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/WSPND1zmWsRCbzQVXt9W6VdHojw=/0x398:4000x2492/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22812163/1231755320.jpg",
+    "publishedAt": "2021-08-29T00:47:06Z",
+    "content": "This fifth breach in four years is the largest one yet\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nA recent T-Mobile data breach coughed up th… [+1445 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "Kevin Lynch",
+    "title": "How to watch Liverpool vs Chelsea: Live stream Premier League football onli",
+    "description": "Just three weeks into the new Premier League season and the fixture calendar has thrown up a bonafide unmissable clash at Anfield between two sides likely to be in contention for the title come next spring.\n\nRead on to find out how to get a Liverpool vs Chels…",
+    "url": "https://www.androidcentral.com/liverpool-vs-chelsea-live-stream-how-watch-premier-league-match-online-anywhere",
+    "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/chelsea-liverpool.jpg",
+    "publishedAt": "2021-08-29T13:00:02Z",
+    "content": "Just three weeks into the new Premier League season and the fixture calendar has thrown up a bonafide unmissable clash at Anfield between two sides likely to be in contention for the title come next … [+5214 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Nigel Slater",
+    "title": "Nigel Slater’s recipes for plum and rosemary cake, and baked aubergines",
+    "description": "Late-summer plums lend themselves to many recipes, but you can’t beat a nice cakeAt the bottom of the garden, past the old well and the hazel frames of runner beans, was what we grandly called “the orchard”. Hidden among the pear and greengage trees, past the…",
+    "url": "https://amp.theguardian.com/food/2021/aug/29/nigel-slaters-recipes-for-plum-and-cake-and-baked-aubergines",
+    "urlToImage": "https://i.guim.co.uk/img/media/eeb2f9cf816aac85c01e79dceb89ed1c5c1d2d9e/0_2130_4957_2973/master/4957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=885ec78b37dbfcf34615ef2d25aa7213",
+    "publishedAt": "2021-08-29T09:30:02Z",
+    "content": "At the bottom of the garden, past the old well and the hazel frames of runner beans, was what we grandly called the orchard. Hidden among the pear and greengage trees, past the vast Bramley apple and… [+5635 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Killian Fox",
+    "title": "‘Parts of my brain light up when he’s talking’: Nigella Lawson and Mark Cousins in conversation",
+    "description": "The cook and the film-maker, who struck up a friendship on Twitter, discuss aesthetics, watching and being watched, and the benefits of ageingMark Cousins and Nigella Lawson seem, at first, an unlikely pairing. He is an author and film-maker from Northern Ire…",
+    "url": "https://amp.theguardian.com/culture/2021/aug/29/nigella-lawson-and-mark-cousins-in-conversation",
+    "urlToImage": "https://i.guim.co.uk/img/media/aedabbf261516fd36bc88984455a3f90e0fa583f/0_166_6593_3955/master/6593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=7f787da71672af30e52097b8f70f8417",
+    "publishedAt": "2021-08-29T10:00:03Z",
+    "content": "Mark Cousins and Nigella Lawson seem, at first, an unlikely pairing. He is an author and film-maker from Northern Ireland, based in Edinburgh, who makes enraptured documentaries about the wonders of … [+13765 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Apple Makes Season One of TV+ Mystery Drama 'Home Before Dark' Free to Watch",
+    "description": "Apple has made season one of mystery drama \"Home Before Dark\" available to watch for free on Apple TV+ for a limited time, no subscription required.\n\n\n\n\r\n\n\nThe official announcement, delivered on Saturday in a tweet, comes three weeks after the conclusion of …",
+    "url": "https://www.macrumors.com/2021/08/29/apple-tv-plus-home-before-dark-free-to-watch/",
+    "urlToImage": "https://images.macrumors.com/t/wARdusXNS1GgwlrAa-4QAwxz0EI=/2000x/https://images.macrumors.com/article-new/2021/05/home-before-dark.jpg",
+    "publishedAt": "2021-08-29T12:35:52Z",
+    "content": "Apple has made season one of mystery drama \"Home Before Dark\" available to watch for free on Apple TV+ for a limited time, no subscription required.\r\nThe official announcement, delivered on Saturday … [+1081 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "Kuo: iPhone 13 to Feature LEO Connectivity to Make Calls and Texts Without Cellular Coverage",
+    "description": "The iPhone 13 will feature low earth orbit (LEO) satellite communication connectivity to allow users to make calls and send messages in areas without 4G or 5G coverage, according to the reliable analyst Ming-Chi Kuo.\n\n\n\n\n\nIn a note to investors, seen by MacRu…",
+    "url": "https://www.macrumors.com/2021/08/29/iphone-13-to-feature-leo-to-make-calls-and-text/",
+    "urlToImage": "https://images.macrumors.com/t/fly1f0zKgGOR5I_lv_lMJkl8VKY=/2500x/https://images.macrumors.com/article-new/2021/07/iPhone-13-Dummy-Thumbnail-2.jpg",
+    "publishedAt": "2021-08-29T14:39:59Z",
+    "content": "The iPhone 13 will feature low earth orbit (LEO) satellite communication connectivity to allow users to make calls and send messages in areas without 4G or 5G coverage, according to the reliable anal… [+1411 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Sami Fathi",
+    "title": "Apple Watch Series 7 Expected to Feature New Watch Faces to Take Advantage of Larger Displays",
+    "description": "Along with an increase in size for the upcoming Apple Watch Series 7, which is rumored to feature larger 41mm and 45mm sizes, Apple plans to include new watch faces that take advantage of the larger displays.\n\n\n\n\n\nIn the latest publication of his \"Power On\" n…",
+    "url": "https://www.macrumors.com/2021/08/29/apple-watch-series-7-new-watch-faces/",
+    "urlToImage": "https://images.macrumors.com/t/RJKV0BBjxFbcBrXSgXD245RRlBM=/1600x/https://images.macrumors.com/article-new/2020/09/apple-watch-series-6-faces.jpg",
+    "publishedAt": "2021-08-29T13:04:45Z",
+    "content": "Along with an increase in size for the upcoming Apple Watch Series 7, which is rumored to feature larger 41mm and 45mm sizes, Apple plans to include new watch faces that take advantage of the larger … [+1381 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Sami Fathi",
+    "title": "Universal Control Works in macOS Monterey Beta 5, But Terminal Commands Required to Enable It",
+    "description": "One of the most highly anticipated features coming to macOS Monterey and iPadOS 15 is Universal Control. Universal Control enables users to use a single Mac's input devices across multiple iPads or Macs.\n\n\n\n\n\nWhile the feature was previewed at WWDC in June, i…",
+    "url": "https://www.macrumors.com/2021/08/29/universal-control-working-macos-not-ipados/",
+    "urlToImage": "https://images.macrumors.com/t/73AZfC4TnKCqyoXGyFiq5bUzGGw=/2000x/https://images.macrumors.com/article-new/2021/08/universal-control-wwdc.jpeg",
+    "publishedAt": "2021-08-29T12:11:21Z",
+    "content": "One of the most highly anticipated features coming to macOS Monterey and iPadOS 15 is Universal Control. Universal Control enables users to use a single Mac's input devices across multiple iPads or M… [+2454 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "ewu@insider.com (Ethan Wu)",
+    "title": "Autos and semiconductors are at the heart of the global supply chain crisis. Here is what experts say is next for the pivotal sectors.",
+    "description": "The chip shortage could last well into 2023. But unlike a conventional shortage, one expert thinks it will come in waves.",
+    "url": "https://markets.businessinsider.com/news/commodities/supply-chains-chip-shortage-auto-semiconductor-sectors-ford-toyota-tsmc-2021-08",
+    "urlToImage": "https://images2.markets.businessinsider.com/6129432712b9cc0019633432?format=jpeg",
+    "publishedAt": "2021-08-29T12:15:00Z",
+    "content": "Chip maker.\r\nGettyImages/ mikroman6\r\nIt might be the biggest single problem facing markets right now. The global chip shortage is still going on, and it's slamming sectors from gaming to dog-washing.… [+3694 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "hrobertson@businessinsider.com (Harry Robertson)",
+    "title": "FTX boss Sam Bankman-Fried says the crypto world must act more responsibly to show it doesn't need strict regulation, as he hits out at scammers",
+    "description": "The 29-year-old crypto billionaire Sam Bankman-Fried said he's taking regulation \"extremely seriously\" and that it's his number one focus.",
+    "url": "https://markets.businessinsider.com/news/stocks/ftx-sam-bankman-fried-exchange-crypto-regulation-scam-crackdown-2021-8",
+    "urlToImage": "https://images2.markets.businessinsider.com/6128f88812b9cc0019631c23?format=jpeg",
+    "publishedAt": "2021-08-29T09:34:28Z",
+    "content": "Sam Bankman-Fried co-founded the crypto exchange FTX in 2019.\r\nFTX\r\nThe cryptocurrency industry needs to prove that it's responsible and doesn't require super-strict regulations, according to Sam Ban… [+3193 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "José María López",
+    "title": "El nacimiento de Hotmail, el correo electrónico que quería ser libre y gratuito",
+    "description": "Año 1996. En España, internet es algo que suena a esotérico. Una tecnología exclusiva para unos pocos a precios desorbitantes. Sin embargo, ese año nacen dos buscadores ilustres made in Spain, ¡Olé! y Ozú. En Estados Unidos, donde nació la red de redes, los g…",
+    "url": "https://hipertextual.com/2021/08/origen-hotmail",
+    "urlToImage": "https://i1.wp.com/hipertextual.com/wp-content/uploads/2021/08/email-computer-world.jpg?fit=2000%2C1333&ssl=1",
+    "publishedAt": "2021-08-29T06:30:00Z",
+    "content": "Año 1996. En España, internet es algo que suena a esotérico. Una tecnología exclusiva para unos pocos a precios desorbitantes. Sin embargo, ese año nacen dos buscadores ilustres made in Spain, ¡Olé! … [+7259 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "TNW Deals",
+    "title": "Get an Amazon Echo Show 5 with Alexa for more than a third off",
+    "description": "TLDR: Bump up your home assistant game with video, courtesy of an Amazon Echo Show 5, now more than $40 off its regular price. It’s been a few years — and now, your Amazon Alexa is practically part of the family. You ask her to order stuff and play your music…",
+    "url": "https://thenextweb.com/news/get-an-amazon-echo-show-5-with-alexa-for-more-than-a-third-off",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FTNW-Amazon-Echo-5.jpeg&signature=16c77d28ace554360150f4f1e3f45e6a",
+    "publishedAt": "2021-08-29T14:00:46Z",
+    "content": "TLDR: Bump up your home assistant game with video, courtesy of an Amazon Echo Show 5, now more than $40 off its regular price.\r\nIts been a few years and now, your Amazon Alexa is practically part of … [+2077 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Eva Rodríguez de Luis",
+    "title": "Guía de compra para iluminar tu zona de trabajo: consejos, recomendaciones y lámparas y bombillas para trabajar con buena luz",
+    "description": "Ya sea porque el teletrabajo ha llegado para quedarse en muchas empresas o porque este septiembre tendrás que montarte un espacio para pasar horas y horas en él hincando codos, os proponemos una guía de compra para iluminar tu zona de trabajo. \n<!-- BREAK 1 -…",
+    "url": "https://www.xataka.com/seleccion/guia-compra-para-iluminar-tu-zona-trabajo-consejos-recomendaciones-lamparas-bombillas-para-trabajar-buena-luz",
+    "urlToImage": "https://i.blogs.es/dbff71/roberto-nickson-gabdda63gcq-unsplash/840_560.jpg",
+    "publishedAt": "2021-08-29T15:01:16Z",
+    "content": "Ya sea porque el teletrabajo ha llegado para quedarse en muchas empresas o porque este septiembre tendrás que montarte un espacio para pasar horas y horas en él hincando codos, os proponemos una guía… [+11175 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "USA TODAY, Claire Thornton, USA TODAY",
+    "title": "How natural disasters, the racial wealth gap are impacting homebuying: 5 Things podcast",
+    "description": "Homebuying was already challenging and overwhelming before the pandemic-induced craze. Natural disasters and the racial wealth gap are making it worse.",
+    "url": "https://www.usatoday.com/story/news/2021/08/29/natural-disasters-influence-home-buying-process-more-than-ever/5639058001/",
+    "urlToImage": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/01/USATODAY/usatsports/imageForEntry47-tkT.jpg?width=1600&height=800&fit=crop",
+    "publishedAt": "2021-08-29T11:08:06Z",
+    "content": "On today's 5 Things episode: Homebuying was already challenging and overwhelming before the current pandemic-induced craze. But what information are homebuyers using to determine where to invest in p… [+16665 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Report: Tim Cook wants to oversee ‘one more major new product category’ before stepping down as Apple CEO",
+    "description": "Over the last few years, speculation about who will take over as Apple CEO following Tim Cook has started to grow. Most recently, Cook himself confirmed that he “probably” won’t be at Apple in 10 years’ time. \nIn the latest edition of his Power On newsletter,…",
+    "url": "https://9to5mac.com/2021/08/29/tim-cook-apple-ceo-step-down-bloomberg/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Tim-Cooks-testimony-in-Epic-case.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2021-08-29T13:18:12Z",
+    "content": "Over the last few years, speculation about who will take over as Apple CEO following Tim Cook has started to grow. Most recently, Cook himself confirmed that he “probably” won’t be at Apple in 10 yea… [+1794 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "José Adorno",
+    "title": "Season 1 of Apple TV+ show ‘Home Before Dark’ now available for free",
+    "description": "If you’re waiting for another opportunity to catch up with some of Apple Originals’ content, the drama TV show Home Before Dark is currently available for free.\n more…\nThe post Season 1 of Apple TV+ show ‘Home Before Dark’ now available for free appeared firs…",
+    "url": "https://9to5mac.com/2021/08/29/season-1-of-apple-tv-show-home-before-dark-now-available-for-free/",
+    "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Apple_TV_Home_Before_Dark_key_art_sh_cr.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2021-08-29T13:07:58Z",
+    "content": "If you’re waiting for another opportunity to catch up with some of Apple Originals’ content, the drama TV show Home Before Dark is currently available for free.\r\nAs posted by Apple TV on Twitter, “fo… [+1671 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Gurman: Apple Watch Series 7 to include new watch faces to take advantage of larger screens",
+    "description": "Our expectations for the Apple Watch Series 7 are starting to take shape ahead of its announcement next month. Now, Bloomberg’s Mark Gurman is corroborating that the focus this year will be on the new flat-edged design with larger displays. \n more…\nThe post G…",
+    "url": "https://9to5mac.com/2021/08/29/apple-watch-series-7-size-faces-report/",
+    "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/Will-the-Apple-Watch-Series-7-provide-a-reason-to-upgrade.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2021-08-29T13:02:25Z",
+    "content": "Our expectations for the Apple Watch Series 7 are starting to take shape ahead of its announcement next month. Now, Bloomberg’s Mark Gurman is corroborating that the focus this year will be on the ne… [+1770 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "José Adorno",
+    "title": "PSA: iCloud Private Relay feature currently leaking your original address",
+    "description": "One of the most important features Apple introduced during the WWDC21 keynote in June was iCloud+ with iCloud Private Relay, which is an extra layer of security that protects users’ privacy while browsing the web. Now, according to a Reddit user, this feature…",
+    "url": "https://9to5mac.com/2021/08/29/psa-icloud-private-relay-feature-currently-leaking-your-original-address/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/iCloud-Private-Relay-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2021-08-29T12:44:45Z",
+    "content": "One of the most important features Apple introduced during the WWDC21 keynote in June was iCloud+ with iCloud Private Relay, which is an extra layer of security that protects users privacy while brow… [+2082 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Benjamin Mayo",
+    "title": "Kuo: iPhone 13 to support LEO satellite communication, allowing users to make phone calls and send texts without cell signal",
+    "description": "Ming-Chi Kuo today released an intriguing note for Apple investors, indicating that he expects the upcoming iPhone 13 will support low-earth-orbit (LEO) satellite communication features. This would allow an iPhone 13 user to send messages and make phone calls…",
+    "url": "https://9to5mac.com/2021/08/29/kuo-iphone-13-to-support-leo-satellite-communication-allowing-users-to-make-phone-calls-and-send-texts-without-cell-signal/",
+    "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/apple-in-space.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2021-08-29T14:37:11Z",
+    "content": "Ming-Chi Kuo today released an intriguing note for Apple investors, indicating that he expects the upcoming iPhone 13 will support low-earth-orbit (LEO) satellite communication features. This would a… [+359 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Genbeta.com"
+    },
+    "author": "Bárbara Bécares",
+    "title": "Cómo descargar contenidos offline para reproducir sin conexión en Netflix, Amazon Prime y Spotify",
+    "description": "Puede ser que en algún momento te encuentres sin conexión en tu PC y con la necesidad o ganas de escuchar música o ver contenidos en alguna plataforma streaming. Aquí vas a conocer cómo puedes ver películas y series o escuchar música y podcast en tres grandes…",
+    "url": "https://www.genbeta.com/actualidad/como-descargar-contenidos-offline-para-reproducir-conexion-netflix-amazon-prime-spotify",
+    "urlToImage": "https://i.blogs.es/bb8dd9/1366_2000/840_560.jpg",
+    "publishedAt": "2021-08-29T10:01:08Z",
+    "content": "Puede ser que en algún momento te encuentres sin conexión en tu PC y con la necesidad o ganas de escuchar música o ver contenidos en alguna plataforma streaming. Aquí vas a conocer cómo puedes ver pe… [+5060 chars]"
+    }
+    ]
+    
